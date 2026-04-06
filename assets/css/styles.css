@@ -109,7 +109,7 @@ header {
 
 .hero-grid {
   display: grid;
-  grid-template-columns: 1fr 390px;
+  grid-template-columns: 1fr 420px;
   gap: 2rem;
   align-items: start;
 }
