@@ -288,4 +288,5 @@ footer {
   width: auto;
   display: block;
   margin: 0 auto 0.75rem;
+  border-radius: 12px;
 }
